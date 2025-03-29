@@ -1,6 +1,0 @@
-1. Create a new project and install Express.js (with Nodemon)
-2. Install one of the templating engines
-3. Add two routes:
-    - "/" => Holds a <form> that allows users to input their name
-    - "/users" => Outputs an <ul> with the usernames (or some error text)
-4. Make sure to also use layouts/includes
